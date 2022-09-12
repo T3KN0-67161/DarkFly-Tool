@@ -2,11 +2,9 @@
 
 """
 Author             : Ms.ambari
-contact            : ambari.developer@gmail.com
-Github             : https://github.com/Ranginang67
-my youtube channel : Ms.ambari
+my youtube channel : TEKNO 67161
 
-subcribe my youtube Channel to learn ethical Hacking ^_^
+jangan lupa subscribe dulur ^_^
 """
 
 import sys
